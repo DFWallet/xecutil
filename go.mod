@@ -1,4 +1,4 @@
-module github.com/gcash/bchutil
+module github.com/DFWallet/xecutil
 
 go 1.12
 
