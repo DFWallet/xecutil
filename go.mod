@@ -3,8 +3,8 @@ module github.com/DFWallet/xecutil
 go 1.12
 
 replace (
-	github.com/gcash/bchd => github.com/DFWallet/xec v0.0.4
-	github.com/gcash/bchutil => github.com/DFWallet/xecutil v0.0.3
+	github.com/gcash/bchd => github.com/DFWallet/xec v0.0.5
+	github.com/gcash/bchutil => github.com/DFWallet/xecutil v0.0.4
 )
 
 require (
