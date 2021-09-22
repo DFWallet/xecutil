@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
+	"github.com/DFWallet/xec/chaincfg/chainhash"
+	"github.com/DFWallet/xec/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted

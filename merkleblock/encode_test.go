@@ -8,14 +8,14 @@ package merkleblock_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gcash/bchd/chaincfg"
+	"github.com/DFWallet/xec/chaincfg"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil"
-	"github.com/gcash/bchutil/bloom"
-	"github.com/gcash/bchutil/merkleblock"
+	"github.com/DFWallet/xec/chaincfg/chainhash"
+	"github.com/DFWallet/xec/wire"
+	"github.com/DFWallet/xecutil"
+	"github.com/DFWallet/xecutil/bloom"
+	"github.com/DFWallet/xecutil/merkleblock"
 )
 
 // TestMerkleBlock3 tests merkleblock encoding using bloom filter. This test

@@ -12,7 +12,7 @@ import (
 	"testing"
 	"unicode"
 
-	"github.com/gcash/bchutil"
+	"github.com/DFWallet/xecutil"
 )
 
 // TestAppDataDir tests the API for AppDataDir to ensure it gives expected

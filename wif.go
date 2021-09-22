@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/gcash/bchd/bchec"
-	"github.com/gcash/bchd/chaincfg"
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchutil/base58"
+	"github.com/DFWallet/xec/bchec"
+	"github.com/DFWallet/xec/chaincfg"
+	"github.com/DFWallet/xec/chaincfg/chainhash"
+	"github.com/DFWallet/xecutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

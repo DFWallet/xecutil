@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/gcash/bchutil"
+	"github.com/DFWallet/xecutil"
 )
 
 func ExampleAmount() {

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg"
-	"github.com/gcash/bchutil"
+	"github.com/DFWallet/xec/chaincfg"
+	"github.com/DFWallet/xecutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

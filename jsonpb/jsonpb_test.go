@@ -2,7 +2,7 @@ package jsonpb
 
 import (
 	"bytes"
-	pb "github.com/gcash/bchutil/jsonpb/testpb"
+	pb "github.com/DFWallet/xecutil/jsonpb/testpb"
 	"testing"
 )
 

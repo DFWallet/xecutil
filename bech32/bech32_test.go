@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gcash/bchutil/bech32"
+	"github.com/DFWallet/xecutil/bech32"
 )
 
 func TestBech32(t *testing.T) {

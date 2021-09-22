@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gcash/bchutil"
+	"github.com/DFWallet/xecutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 

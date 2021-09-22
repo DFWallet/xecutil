@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	. "github.com/gcash/bchutil"
+	. "github.com/DFWallet/xecutil"
 )
 
 func TestAmountCreation(t *testing.T) {

@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil/merkleblock"
+	"github.com/DFWallet/xec/chaincfg/chainhash"
+	"github.com/DFWallet/xec/wire"
+	"github.com/DFWallet/xecutil/merkleblock"
 )
 
 // TestNewMerkleBlockFromMsg tests decoding of a partial merkle tree from

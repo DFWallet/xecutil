@@ -7,9 +7,9 @@ package bchutil_test
 import (
 	"testing"
 
-	"github.com/gcash/bchd/bchec"
-	"github.com/gcash/bchd/chaincfg"
-	. "github.com/gcash/bchutil"
+	"github.com/DFWallet/xec/bchec"
+	"github.com/DFWallet/xec/chaincfg"
+	. "github.com/DFWallet/xecutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

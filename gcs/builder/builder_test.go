@@ -8,14 +8,14 @@ package builder_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gcash/bchd/txscript"
+	"github.com/DFWallet/xec/txscript"
 	"testing"
 	"time"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil/gcs"
-	"github.com/gcash/bchutil/gcs/builder"
+	"github.com/DFWallet/xec/chaincfg/chainhash"
+	"github.com/DFWallet/xec/wire"
+	"github.com/DFWallet/xecutil/gcs"
+	"github.com/DFWallet/xecutil/gcs/builder"
 )
 
 var (

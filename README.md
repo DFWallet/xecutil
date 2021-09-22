@@ -3,7 +3,7 @@ bchutil
 
 [![Build Status](https://travis-ci.org/gcash/bchutil.svg?branch=master)](https://travis-ci.org/gcash/bchutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/gcash/bchutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/DFWallet/xecutil)
 
 Package bchutil provides bitcoin cash-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -19,7 +19,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/gcash/bchutil
+$ go get -u github.com/DFWallet/xecutil
 ```
 
 ## License

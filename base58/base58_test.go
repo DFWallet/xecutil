@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/gcash/bchutil/base58"
+	"github.com/DFWallet/xecutil/base58"
 )
 
 var stringTests = []struct {
